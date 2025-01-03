@@ -315,7 +315,7 @@ border-radius: 100vmax;
     background-color: var(--rpg);
     color: white;
 }
-.plataforma{
+.plataforma {
     background-color: var(--plataforma);
     color: white;
 }
@@ -364,9 +364,17 @@ background-color: var(--size);
     color: white;
 }
 
+
+
 .ps3{
     background-color: rgb(163, 18, 141);
     color: white;
+}
+
+.pc {
+    background-color: white;
+    color: black;
+    border: 1px  solid black;
 }
 
 @media screen and (max-width: 600px) {

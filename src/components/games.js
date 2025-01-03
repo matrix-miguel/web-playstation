@@ -1199,6 +1199,139 @@ const games = [
     size: '8Gb',
     category: 'ps3'
   },
+  {
+    id: 120,
+    name: 'Call of Duty Black Ops 3 ',
+    img:'call_of_duty_black_ops_3.jpg',
+    valoration: '8',
+    description: 'Entre las principales claves de este Call of Duty: Black Ops III se cuenta un sistema de clases y especializaciones muy detallado para el multijugador y la campaña que, de forma diferenciada, ofrece posibilidades muy interesantes para los más fans de la customización de sus personajes en ambas facetas y la posibilidad de invertir muchas más horas en su propuesta de acción en primera personas. En cuanto a la campaña su peso narrativo se multiplica, con mucha importancia para la historia y un sinfín de secuencias cinemáticas llevadas a cabo con una enorme calidad en la puesta en escena y atención por el detalle que elevan notablemente el cuajo narrativo de la obra en este sentido. Black Ops 3, eso sí, no se olvida del tradicional modo zombie con más horas de juego y nuevos personajes en una época que parece homenajear al cine de Serie Z y que cuenta con los actores Heather Graham, Jeff Goldblum o Ron Perlman, entre otros.',
+    version: 'update',
+    size: '41Gb',
+    category: 'shooter'
+  },
+  {
+    id: 121,
+    name: 'Call of Duty MW3 ',
+    img:'call_of_duty_mw_3.jpg',
+    valoration: '8',
+    description: 'La historia del juego comienza directamente donde acaba el argumento de Modern Warfare 2, dejando a Estados Unidos bajo el asedio de las fuerzas rusas, el ultranacionalista Vladimir Makarov en libertad, y los capitanes «Soap» MacTavish y John Price heridos y a la fuga junto con el informante ruso Nikolai y el soldado Yuri quien juega un rol muy importante en el juego. El juego es, cronológicamente, la última entrega de la serie Modern Warfare, dando fin al arco argumental comenzado en Call of Duty 4: Modern Warfare.',
+    version:'update',
+    size: '101Gb',
+    category: 'shooter'
+  }, 
+  {
+    id: 122,
+    name: 'Dead Cells',
+    img: 'dead_cells.jpg',
+    valoration: '7',
+    description: 'Dead Cells es un videojuego híbrido entre el género de exploración de mazmorras o roguelite, y metroidvania, creando su propio género, “roguevania”, desarrollado por el estudio Motion Twin.1​ El juego fue lanzado para PC, Mac, Linux, Playstation 4, Nintendo Switch y Xbox One,1​ siendo lanzado en la plataforma de Steam el 6 de agosto de 2018, bajo la categoría de juego de acción e indie.',
+    version:'update',
+    size: '1.72Gb',
+    category: 'plataforma'
+  },
+  {
+    id: 123,
+    name: 'Unravel TWO',
+    img: 'unravel_two.jpg',
+    valoration: '8',
+    description: 'Unravel Two es un videojuego de puzles desarrollado por la compañía sueca Coldwood Interactive y distribuido por Electronic Arts. Es la secuela directa de Unravel. Se estrenó el 9 de junio de 2018, el mismo que día en el que fue anunciado.1​',
+    version:'update',
+    size: '2.78gb',
+    category: 'plataforma'
+  },  {
+    id: 124,
+    name: 'Hades', 
+    img: 'hades.jpg',
+    valoration: '8',
+    description: 'Hades es un juego de rol de acción roguelike desarrollado y publicado por Supergiant Games. El juego fue lanzado para Microsoft Windows, Xbox One, Series X, macOS, y Nintendo Switch el 17 de septiembre de 2020, que siguió a un lanzamiento de acceso anticipado en diciembre de 2018.',
+    version:'update',
+    size: '7.60Gb',
+    category: 'plataforma'
+  }, 
+  {
+    id: 125,
+    name: 'Blasphemous', 
+    img: 'blasphemous.jpg',
+    valoration: '7',
+    description: 'Blasphemous es un videojuego de Metroidvania desarrollado por el estudio español The Game Kitchen,1​ y publicado por Team17. El juego fue lanzado para Nintendo Switch, Microsoft Windows, PlayStation 4 y Xbox One el 10 de septiembre de 2019.2​ Para su desarrollo y posterior campaña de marketing, inició una campaña de micromecenazgo en Kickstarter en 2017.3​',
+    version:'update',
+    size: '1.72Gb',
+    category: 'plataforma'
+  }, 
+  {
+    id: 126,
+    name: 'Blasphemous 2', 
+    img: 'blasphemous_2.jpg',
+    valoration: '8',
+    description: 'Blasphemous 2 es un videojuego Metroidvania de desplazamiento lateral desarrollado por The Game Kitchen y publicado por Team17. Es la secuela de Blasphemous (2019), el juego se lanzó para Microsoft Windows, Nintendo Switch, PlayStation 5 y Xbox Series X/S en agosto de 2023 y para PlayStation 4 y Xbox One en noviembre de 2023. El juego recibió críticas generalmente positivas tras su lanzamiento.',
+    version:'update',
+    size: '3.42Gb',
+    category: 'plataforma'
+  }, 
+  {
+    id: 127,
+    name: 'Dark Souls [Remastered]', 
+    img: 'dark_souls_remastered.jpg',
+    valoration: '9',
+    description: 'A la venta en España: 25/5/2018Dark Souls vuelve a sus orígenes, a la primera entrega de la saga, con una edición remasterizada y mejorada del videojuego de acción y rol de culto. Se trata de una puesta al día de uno de los títulos más influyentes de los últimos años, siendo adaptado en gráficos, iluminación y modos de juego, e incluyendo en la propuesta la expansión Artorias of the Abyss. El título llega así a Xbox One, PS4, PC y Nintendo Switch devolviendo a una generación de jugadores una de las propuestas más sólidas e importantes de los últimos años.',
+    version:'update',
+    size: '101Gb',
+    category: 'supervivencia'
+  }, 
+  {
+    id: 128,
+    name: 'FC 25', 
+    img: 'fc_25.jpg',
+    valoration: '9',
+    description: 'EA SPORTS FC 25 SHOWCASE es un juego de fútbol desarrollado y publicado por Electronic Arts para PlayStation 4, PlayStation 5, Xbox One, Xbox Series y PC. Una versión gratuita del popular juego de fútbol de EA Sports, que te permite probar las novedades de la última entrega, con tutoriales, Partido rápido y el nuevo modo arcade Rush.',
+    version:'1.05',
+    size: '43.8Gb',
+    category: 'deporte'
+  }, 
+  {
+    id: 129,
+    name: 'Gang Beasts', 
+    img: 'gang_beasts.jpg',
+    valoration: '8',
+    description: 'Gang Beasts es un videojuego de fiesta multijugador desarrollado por Bone Loaf y publicado por Double Fine Productions. Lanzado en 2017 para PlayStation 4, Xbox One, y PC, este título se caracteriza por su caótico y cómico combate cuerpo a cuerpo en escenarios físicamente interactivos.',
+    version:'update',
+    size: '2.74Gb',
+    category: 'plataforma'
+  }, 
+
+  {
+    id: 130,
+    name: 'Ori and the Will of the Wisps', 
+    img: 'ori_and_the_will_of_the_wisps.jpg',
+    valoration: '10',
+    description: 'Ori and the Will of the Wisps es la continuación del emblemático videojuego de plataformas y aventuras Ori and the Blind Forest, desarrollado por Moon Studios. Se trata de una secuela que sigue ofreciéndonos un estilo impecable a nivel visual y jugable de la mano de Microsoft Studios y con un lanzamiento para Xbox One y PC.',
+    version:'update',
+    size: '6.32Gb',
+    category: 'pc'
+  }, 
+  {
+    id: 131,
+    name: 'American Truck Simulator', 
+    img: 'american_truck_simulator.jpg',
+    valoration: '8',
+    description: 'American Truck Simulator es simulador de conducción de camiones desarrollado y publicado por SCS Software para PC. Un realista simulador en el que tenemos que conducir enormes camiones por las extensas carreteras de Estados Unidos, recorriendo los variados paisajes de California, Nevada o Arizona, llevando todo tipo de remolques y mercancías, en una gran variedad de trabajos y pudiendo personalizar con mucha libertad nuestro camión.',
+    version:'1.48.14',
+    size: '13.8Gb',
+    category: 'pc'
+  }, 
+/*  
+ {
+    id: 122,
+    name: '', 
+    img: '',
+    valoration: '8',
+    description: '',
+    version:'update',
+    size: '101Gb',
+    category: 'shooter'
+  }, 
+  */
+
   
 ]
 
